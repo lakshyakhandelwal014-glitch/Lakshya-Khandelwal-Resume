@@ -1,0 +1,73 @@
+body{
+    font-family: sans-serif;
+    margin:0;
+    background: #84b179;
+}
+
+header{
+    text-align:center;
+    background:#222;
+    color:white;
+    padding:30px;
+}
+
+.profile{
+    width:150px;
+    border-radius:50%;
+    margin-top:10px;
+}
+
+nav{
+    background:#444;
+    text-align:center;
+    padding:10px;
+}
+
+nav a{
+    color:white;
+    margin:15px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+section{
+    padding:30px;
+    background:white;
+    margin:20px;
+    border-radius:8px;
+}
+
+h2{
+    color:#333;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th, td{
+    padding:10px;
+    text-align:left;
+}
+
+button{
+    padding:10px 20px;
+    background:#222;
+    color:white;
+    border:none;
+}
+
+footer{
+    text-align:center;
+    background:#222;
+    color:white;
+    padding:15px;
+}
+.profile{
+    width:150px;
+    height:150px;
+    border-radius:0;
+    display:block;
+    margin: 20px auto;
+}
